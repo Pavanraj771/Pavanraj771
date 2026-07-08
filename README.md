@@ -4,17 +4,17 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/burugu-pavan-raj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/burugu-pavan-raj-082b9933b?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bpavanraj701@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 ### 💫 About Me
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering** at **NIT Warangal** (CGPA: 8.50).
-- 🚀 **JEE Advanced AIR 2751** | **JEE Mains AIR 771**.
-- 💡 Passionate about **Data Structures & Algorithms, Systems Programming, and Machine Learning**.
-- 🏆 Active Competitive Programmer with a **1704 Max Rating on LeetCode** (Solved 750+ problems).
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering** at **NIT Warangal** (CGPA: 8.50)[span_1](start_span)[span_1](end_span).
+- 🚀 **JEE Advanced AIR 2751** | **JEE Mains AIR 771**[span_2](start_span)[span_2](end_span).
+- 💡 Passionate about **Data Structures & Algorithms, Systems Programming, and Machine Learning**[span_3](start_span)[span_3](end_span).
+- 🏆 Active Competitive Programmer with a **1704 Max Rating on LeetCode** (Solved 750+ problems)[span_4](start_span)[span_4](end_span).
 
 ---
 
@@ -56,10 +56,10 @@
 
 ### 🚀 Featured Personal Projects
 
-#### 🛍️ [SareeShala E-Commerce Platform](https://github.com/Pavanraj771)
-- **Tech Stack:** React.js, Django REST Framework, PostgreSQL, Redis, Celery, JWT[span_6](start_span)[span_6](end_span).
-- Full-stack e-commerce engine with scalable relational schemas and automated user engagement loops via worker queues[span_7](start_span)[span_7](end_span).
+#### 🛍️ [SareeShala E-Commerce Platform](https://github.com/Pavanraj771/SareeShala/tree/main)
+- **Tech Stack:** React.js, Django REST Framework, PostgreSQL, Redis, Celery, JWT[span_5](start_span)[span_5](end_span).
+- Full-stack e-commerce engine with scalable relational schemas and automated user engagement loops via worker queues[span_6](start_span)[span_6](end_span).
 
-#### 🏏 [Who Wins IPL - AI Dashboard](https://github.com/Pavanraj771)
-- **Tech Stack:** Python, FastAPI, Scikit-Learn, Pandas, JavaScript[span_8](start_span)[span_8](end_span).
-- Machine learning prediction platform calculating pre-match and in-game live win probabilities utilizing historical match criteria[span_9](start_span)[span_9](end_span).
+#### 🏏 [Who Wins IPL - AI Dashboard](https://github.com/Pavanraj771/WhoWins-IPL/tree/main)
+- **Tech Stack:** Python, FastAPI, Scikit-Learn, Pandas, JavaScript[span_7](start_span)[span_7](end_span).
+- Machine learning prediction platform calculating pre-match and in-game live win probabilities utilizing historical match criteria[span_8](start_span)[span_8](end_span).
