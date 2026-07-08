@@ -11,10 +11,10 @@
 ---
 
 ### 💫 About Me
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering** at **NIT Warangal** (CGPA: 8.50)[span_1](start_span)[span_1](end_span).
-- 🚀 **JEE Advanced AIR 2751** | **JEE Mains AIR 771**[span_2](start_span)[span_2](end_span).
-- 💡 Passionate about **Data Structures & Algorithms, Systems Programming, and Machine Learning**[span_3](start_span)[span_3](end_span).
-- 🏆 Active Competitive Programmer with a **1704 Max Rating on LeetCode** (Solved 750+ problems)[span_4](start_span)[span_4](end_span).
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering** at **NIT Warangal** (CGPA: 8.50)[span_0](start_span)[span_0](end_span).
+- 🚀 **JEE Advanced AIR 2751** | **JEE Mains AIR 771**[span_1](start_span)[span_1](end_span).
+- 💡 Passionate about **Data Structures & Algorithms, Systems Programming, and Machine Learning**[span_2](start_span)[span_2](end_span).
+- 🏆 Active Competitive Programmer with a **1704 Max Rating on LeetCode** (Solved 750+ problems)[span_3](start_span)[span_3](end_span).
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### 🚀 Featured Personal Projects
 
-#### 🛍️ [SareeShala E-Commerce Platform](https://github.com/Pavanraj771/SareeShala/tree/main)
-- **Tech Stack:** React.js, Django REST Framework, PostgreSQL, Redis, Celery, JWT[span_5](start_span)[span_5](end_span).
-- Full-stack e-commerce engine with scalable relational schemas and automated user engagement loops via worker queues[span_6](start_span)[span_6](end_span).
+#### 🛍️ [SareeShala E-Commerce Platform](https://github.com/Pavanraj771/SareeShala/tree/main) | [🌐 Live Demo](https://sareeshala-frontend-wqom.onrender.com)
+- **Tech Stack:** React.js, Django REST Framework, PostgreSQL, Redis, Celery, JWT[span_4](start_span)[span_4](end_span).
+- Full-stack e-commerce engine with scalable relational schemas and automated user engagement loops via worker queues[span_5](start_span)[span_5](end_span).
 
 #### 🏏 [Who Wins IPL - AI Dashboard](https://github.com/Pavanraj771/WhoWins-IPL/tree/main)
-- **Tech Stack:** Python, FastAPI, Scikit-Learn, Pandas, JavaScript[span_7](start_span)[span_7](end_span).
-- Machine learning prediction platform calculating pre-match and in-game live win probabilities utilizing historical match criteria[span_8](start_span)[span_8](end_span).
+- **Tech Stack:** Python, FastAPI, Scikit-Learn, Pandas, JavaScript[span_6](start_span)[span_6](end_span).
+- Machine learning prediction platform calculating pre-match and in-game live win probabilities utilizing historical match criteria[span_7](start_span)[span_7](end_span).
