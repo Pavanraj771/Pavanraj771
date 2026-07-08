@@ -45,11 +45,12 @@
 
 ---
 
-### 📊 GitHub & Coding Analytics
+### 📊 Coding Profile Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavanraj771&show_icons=true&theme=dark&hide_border=true" alt="Pavan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanraj771&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://leetcode.com/u/Pavanraj2751/">
+    <img src="https://leetcard.jacoblin.cool/Pavanraj2751?theme=dark&font=Inter" alt="Pavan's LeetCode Stats" />
+  </a>
 </p>
 
 ---
